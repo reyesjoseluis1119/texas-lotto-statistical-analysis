@@ -1,5 +1,61 @@
-# texas-lotto-statistical-analysis
-Statistical modeling and simulation project exploring randomness, probability distributions, Monte Carlo simulation, and predictive limitations within historical lottery data.
+# Texas Lotto Statistical Analysis
+
+## Project Overview
+
+This project explores statistical behavior, probability distributions, simulation modeling, and predictive limitations within historical Texas Lotto draw data using Python-based analytics and machine learning techniques.
+
+The analysis evaluates historical number frequencies, draw patterns, probability structures, inferential statistics, Monte Carlo simulation, and machine learning classification models.
+
+---
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- SciPy
+- itertools
+- Google Colab
+
+---
+
+## Analytical Techniques
+
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Inferential Statistics
+- Monte Carlo Simulation
+- Probability Distribution Analysis
+- Random Forest Classification
+- Feature Engineering
+- Heatmap Visualization
+
+---
+
+## Key Insights
+
+- Historical lotto frequencies exhibited natural variation while remaining broadly consistent with random behavior.
+- Odd/even and low/high number structures demonstrated recurring distribution patterns.
+- Consecutive number combinations appeared less frequently than non-consecutive combinations.
+- Monte Carlo simulation produced distributions similar to historical draw behavior.
+- Machine learning classification models demonstrated measurable predictive capability for broader structural draw characteristics.
+
+---
+
+## Repository Structure
+
+```text
+notebooks/   -> Jupyter notebooks
+reports/     -> Executive reports
+images/      -> Project visualizations
+data/        -> Datasets
+```
+
+---
+
+## Sample Visualizations
 
 ### Lotto Number Frequencies
 
@@ -70,3 +126,11 @@ Feature importance analysis identified the strongest structural variables influe
 ![Classification Report](images/random_forest_model_classification_report.png)
 
 The Random Forest classification model demonstrated measurable predictive performance across broader draw structure categories.
+
+---
+
+## Author
+
+Jose Reyes  
+MS Business Analytics & Artificial Intelligence  
+University of Texas Rio Grande Valley
