@@ -99,7 +99,7 @@ This histogram illustrates the distribution of historical draw totals across the
 
 ### Historical vs Simulated Draw Distributions
 
-![Historical vs Simulated](images/historical_vs_simulated_draw_totals_distribution.png)
+![Historical vs Simulated](images/historical_versus_simulated_draw_totals_distribution.png)
 
 Monte Carlo simulation results were compared against historical draw distributions to evaluate similarity in probabilistic behavior.
 
